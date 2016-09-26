@@ -13,4 +13,4 @@ Data| Atividade
 ------ | -------
 08/09/2016 | Entrega do wireframe. 
 12/09/2016 | Nova reuniao, para aperfeicoar o wireframe.
-(Reunião pendente)
+26/09/2016 | Reunião do grupo
